@@ -15,11 +15,6 @@ Módulo: Sistemas Informáticos
 Fecha de entrega: 17/04/2026  
 Docente: Willman Acosta Lugo 
 
-# INDICE 
-
-[**Fase de Investigación	3**](#fase-de-investigación)
-
-[Reto de Investigación 1	3](#reto-de-investigación-1)
 
 # **Fase de Investigación** {#fase-de-investigación}
 
